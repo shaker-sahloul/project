@@ -1,3 +1,23 @@
 # project
-[Untitled-2.md](https://github.com/shaker-sahloul/project/files/14393712/Untitled-2.md)
-[Untitled-1.md](https://github.com/shaker-sahloul/project/files/14393711/Untitled-1.md)
+<html>
+  <!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  
+</head>
+
+<body>
+<ol>
+<li>Learn HTML.</li>
+<li>Learn CSS.</li>
+<li>Learn Python.</li>
+<li>Save the world.</li>
+</ol>
+</body>
+
+</html>
+</html>
